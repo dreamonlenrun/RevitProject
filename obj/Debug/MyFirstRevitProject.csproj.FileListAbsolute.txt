@@ -1,0 +1,5 @@
+D:\workspace\RevitProject\MyFirstRevitProject\bin\Debug\MyFirstRevitProject.dll
+D:\workspace\RevitProject\MyFirstRevitProject\bin\Debug\MyFirstRevitProject.pdb
+D:\workspace\RevitProject\MyFirstRevitProject\obj\Debug\MyFirstRevitProject.csprojAssemblyReference.cache
+D:\workspace\RevitProject\MyFirstRevitProject\obj\Debug\MyFirstRevitProject.dll
+D:\workspace\RevitProject\MyFirstRevitProject\obj\Debug\MyFirstRevitProject.pdb

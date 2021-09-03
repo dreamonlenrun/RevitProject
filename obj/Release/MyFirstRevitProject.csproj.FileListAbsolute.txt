@@ -1,0 +1,4 @@
+D:\workspace\RevitProject\MyFirstRevitProject\bin\Release\MyFirstRevitProject.dll
+D:\workspace\RevitProject\MyFirstRevitProject\bin\Release\MyFirstRevitProject.pdb
+D:\workspace\RevitProject\MyFirstRevitProject\obj\Release\MyFirstRevitProject.dll
+D:\workspace\RevitProject\MyFirstRevitProject\obj\Release\MyFirstRevitProject.pdb
